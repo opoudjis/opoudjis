@@ -1,4 +1,77 @@
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 773 Contributions in the Year 2021
+ > 
+> 📦 0 Bytes Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 6 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    401 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.28% 
+🌆 Daytime    549 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.44% 
+🌃 Evening    1842 commits   █████████████░░░░░░░░░░░░   51.8% 
+🌙 Night      764 commits    █████░░░░░░░░░░░░░░░░░░░░   21.48%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       765 commits    █████░░░░░░░░░░░░░░░░░░░░   21.51% 
+Tuesday      554 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.58% 
+Wednesday    539 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.16% 
+Thursday     510 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.34% 
+Friday       436 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.26% 
+Saturday     482 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.55% 
+Sunday       270 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   7.59%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Australia/Melbourne
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in XSLT** 
+
+```text
+XSLT                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
+Ruby                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
+C#                       2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Makefile                 2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/opoudjis/opoudjis/main/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 
