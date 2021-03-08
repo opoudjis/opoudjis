@@ -1,6 +1,10 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+
+![my github stats](https://github-readme-stats.vercel.app/api?username=opoudjis&show_icons=true&theme=tokyonight&line_height=27)
+![most used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=opoudjis&hide=css,html&theme=tokyonight)
+
 <!--
 **opoudjis/opoudjis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
